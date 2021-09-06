@@ -1,0 +1,24 @@
+{
+	"devices": [{
+			"id": 1,
+			"client_id": 25,
+			"title": "Dell T420",
+			"description": "Dell server installed at customer X"
+		},
+		{
+			"id": 2,
+			"client_id": 25,
+			"title": "Lenovo X230",
+			"description": "Salmans Lenovo X230 personal laptop"
+		},
+		{
+			"id": 3,
+			"client_id": 5,
+			"title": "Apple MacMini M1",
+			"description": "Brand new Apple MacMini M1"
+		}
+	],
+	"profile": {
+		"name": "ml_poc"
+	}
+}
