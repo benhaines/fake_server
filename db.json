@@ -1,42 +1,6 @@
 {
 	"devices": [
- {
-   "ID": 2717,
-   "client_idf": 25,
-   "title": "ToughSwitch - CCTV & WiFi",
-   "type": "Network"
- },
-
- {
-   "ID": 11718,
-   "client_idf": 25,
-   "title": "HP M203dn - Unit 10 - Dev",
-   "type": "Printer"
- },
- {
-   "ID": 14133,
-   "client_idf": 25,
-   "title": "",
-   "type": "Workstation"
- },
- {
-   "ID": 14134,
-   "client_idf": 25,
-   "title": "",
-   "type": "Workstation"
- },
- {
-   "ID": 14135,
-   "client_idf": 25,
-   "title": "",
-   "type": "Workstation"
- },
- {
-   "ID": 14149,
-   "client_idf": 25,
-   "title": "MBCloud - Dell R620 (SAN) - iDRAC",
-   "type": "Physical"
- },
+ 
  {
    "ID": 14207,
    "client_idf": 25,
