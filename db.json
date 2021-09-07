@@ -1,23 +1,810 @@
 {
-	"devices": [{
-			"id": 1,
-			"client_id": 25,
-			"title": "Dell T420",
-			"description": "Dell server installed at customer X"
-		},
-		{
-			"id": 2,
-			"client_id": 25,
-			"title": "Lenovo X230",
-			"description": "Salmans Lenovo X230 personal laptop"
-		},
-		{
-			"id": 3,
-			"client_id": 5,
-			"title": "Apple MacMini M1",
-			"description": "Brand new Apple MacMini M1"
-		}
-	],
+	"devices": [
+ {
+   "ID": 2717,
+   "client_idf": 25,
+   "title": "ToughSwitch - CCTV & WiFi",
+   "type": "Network"
+ },
+ {
+   "ID": 2775,
+   "client_idf": 25,
+   "title": "MBTVDI",
+   "type": "Workstation"
+ },
+ {
+   "ID": 2873,
+   "client_idf": 25,
+   "title": "Dispatch TC",
+   "type": "Workstation"
+ },
+ {
+   "ID": 3497,
+   "client_idf": 25,
+   "title": "Brother QL-580N Label Printer",
+   "type": "Printer"
+ },
+ {
+   "ID": 3588,
+   "client_idf": 25,
+   "title": "TP-Link SG2424",
+   "type": "Network"
+ },
+ {
+   "ID": 3679,
+   "client_idf": 25,
+   "title": "Netgear PoE",
+   "type": "Network"
+ },
+ {
+   "ID": 3833,
+   "client_idf": 25,
+   "title": "MBElastix",
+   "type": "Server"
+ },
+ {
+   "ID": 4484,
+   "client_idf": 25,
+   "title": "Ubuiqiti AP01",
+   "type": "Network"
+ },
+ {
+   "ID": 4485,
+   "client_idf": 25,
+   "title": "Ubiquiti AP02",
+   "type": "Network"
+ },
+ {
+   "ID": 4486,
+   "client_idf": 25,
+   "title": "Ubi Unifi Controller",
+   "type": "Network"
+ },
+ {
+   "ID": 4550,
+   "client_idf": 25,
+   "title": "Ahsay Cloudbackup - RDP",
+   "type": "Server"
+ },
+ {
+   "ID": 4639,
+   "client_idf": 25,
+   "title": "Backup-Server",
+   "type": "Server"
+ },
+ {
+   "ID": 4664,
+   "client_idf": 25,
+   "title": "MBServer03",
+   "type": "Server"
+ },
+ {
+   "ID": 4702,
+   "client_idf": 25,
+   "title": "Xerox C405",
+   "type": "Printer"
+ },
+ {
+   "ID": 4803,
+   "client_idf": 25,
+   "title": "MBVDiDispatch",
+   "type": "Workstation"
+ },
+ {
+   "ID": 4943,
+   "client_idf": 25,
+   "title": "Microbyte - Dell R710",
+   "type": "Physical"
+ },
+ {
+   "ID": 5101,
+   "client_idf": 25,
+   "title": "LAB-DC01",
+   "type": "Workstation"
+ },
+ {
+   "ID": 5103,
+   "client_idf": 25,
+   "title": "Draytek 2860 Router",
+   "type": "Network"
+ },
+ {
+   "ID": 5313,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R710 (SATA)",
+   "type": "Physical"
+ },
+ {
+   "ID": 5314,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R710 (SAN)",
+   "type": "Physical"
+ },
+ {
+   "ID": 5522,
+   "client_idf": 25,
+   "title": "LAB-WS01",
+   "type": "Workstation"
+ },
+ {
+   "ID": 6069,
+   "client_idf": 25,
+   "title": "MBCloud - DCSAN",
+   "type": "Physical"
+ },
+ {
+   "ID": 6179,
+   "client_idf": 25,
+   "title": "Meraki Z1",
+   "type": "Network"
+ },
+ {
+   "ID": 6205,
+   "client_idf": 25,
+   "title": "MB-KB01",
+   "type": "Server"
+ },
+ {
+   "ID": 6240,
+   "client_idf": 25,
+   "title": "AirControl Server",
+   "type": "Network"
+ },
+ {
+   "ID": 6248,
+   "client_idf": 25,
+   "title": "Draytek 2830n - GWM Shared",
+   "type": "Network"
+ },
+ {
+   "ID": 6249,
+   "client_idf": 25,
+   "title": "Draytek 2860n - Switch + AP ONLY",
+   "type": "Network"
+ },
+ {
+   "ID": 6250,
+   "client_idf": 25,
+   "title": "GWM Office Camera - Dome",
+   "type": "CCTV"
+ },
+ {
+   "ID": 6299,
+   "client_idf": 25,
+   "title": "D. Rod Laptop",
+   "type": "Workstation"
+ },
+ {
+   "ID": 6300,
+   "client_idf": 25,
+   "title": "D. Jeff Laptop",
+   "type": "Workstation"
+ },
+ {
+   "ID": 6327,
+   "client_idf": 25,
+   "title": "Microbyte - T410 - LAB",
+   "type": "Physical"
+ },
+ {
+   "ID": 6389,
+   "client_idf": 25,
+   "title": "Meraki MX64",
+   "type": "Network"
+ },
+ {
+   "ID": 6497,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R620 (SAN)",
+   "type": "Physical"
+ },
+ {
+   "ID": 6498,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R620 (SAN)",
+   "type": "Physical"
+ },
+ {
+   "ID": 7145,
+   "client_idf": 25,
+   "title": "MBServerRDS01",
+   "type": "Server"
+ },
+ {
+   "ID": 7241,
+   "client_idf": 25,
+   "title": "LAB - Router",
+   "type": "Network"
+ },
+ {
+   "ID": 7242,
+   "client_idf": 25,
+   "title": "LAB-RDP01",
+   "type": "Workstation"
+ },
+ {
+   "ID": 8194,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R730 (Native) iDRAC",
+   "type": "Physical"
+ },
+ {
+   "ID": 8341,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R630 - ESX5-R630H2",
+   "type": "Physical"
+ },
+ {
+   "ID": 8342,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R630 - R630H2 - iDRAC",
+   "type": "Physical"
+ },
+ {
+   "ID": 8353,
+   "client_idf": 25,
+   "title": "TP-Link SG5428",
+   "type": "Network"
+ },
+ {
+   "ID": 8371,
+   "client_idf": 25,
+   "title": "Barracuda BBS190a - 918052",
+   "type": "Physical"
+ },
+ {
+   "ID": 8372,
+   "client_idf": 25,
+   "title": "Barracuda BBS190a - 914935",
+   "type": "Physical"
+ },
+ {
+   "ID": 8373,
+   "client_idf": 25,
+   "title": "Barracuda BBS390a - 907859",
+   "type": "Physical"
+ },
+ {
+   "ID": 8397,
+   "client_idf": 25,
+   "title": "TP-Link SG5428 - WAN",
+   "type": "Network"
+ },
+ {
+   "ID": 8445,
+   "client_idf": 25,
+   "title": "Zyxel GS1900 24 Port",
+   "type": "Network"
+ },
+ {
+   "ID": 8488,
+   "client_idf": 25,
+   "title": "Barracuda BBS390 - 856321",
+   "type": "Physical"
+ },
+ {
+   "ID": 8561,
+   "client_idf": 25,
+   "title": "Microbyte - Dell R510",
+   "type": "Physical"
+ },
+ {
+   "ID": 8836,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R730",
+   "type": "Physical"
+ },
+ {
+   "ID": 9018,
+   "client_idf": 25,
+   "title": "Barracuda BBS290a - 930552",
+   "type": "Physical"
+ },
+ {
+   "ID": 9023,
+   "client_idf": 25,
+   "title": "Microbyte - Test Restore Microserver",
+   "type": "Physical"
+ },
+ {
+   "ID": 9240,
+   "client_idf": 25,
+   "title": "Microbyte - Dell R630",
+   "type": "Physical"
+ },
+ {
+   "ID": 9241,
+   "client_idf": 25,
+   "title": "Microbyte - Dell R630 - iDRAC",
+   "type": "Physical"
+ },
+ {
+   "ID": 9296,
+   "client_idf": 25,
+   "title": "TP-Link SG2424",
+   "type": "Network"
+ },
+ {
+   "ID": 9297,
+   "client_idf": 25,
+   "title": "TP-Link SG3424",
+   "type": "Network"
+ },
+ {
+   "ID": 9298,
+   "client_idf": 25,
+   "title": "MBCloud - DCSAN iSCSI",
+   "type": "Physical"
+ },
+ {
+   "ID": 9302,
+   "client_idf": 25,
+   "title": "MBCloud - DCSAN Service IP",
+   "type": "Physical"
+ },
+ {
+   "ID": 9445,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R510 (Native Backup Server)",
+   "type": "Physical"
+ },
+ {
+   "ID": 9641,
+   "client_idf": 25,
+   "title": "Barracuda BBS190 - 954528",
+   "type": "Physical"
+ },
+ {
+   "ID": 9742,
+   "client_idf": 25,
+   "title": "2N Helios Door Phone",
+   "type": "Network"
+ },
+ {
+   "ID": 10133,
+   "client_idf": 25,
+   "title": "MBWebStats",
+   "type": "Server"
+ },
+ {
+   "ID": 10192,
+   "client_idf": 25,
+   "title": "Draytek 2860n",
+   "type": "Network"
+ },
+ {
+   "ID": 10203,
+   "client_idf": 25,
+   "title": "MB-DC01",
+   "type": "Server"
+ },
+ {
+   "ID": 10222,
+   "client_idf": 25,
+   "title": "OSC-SQL01",
+   "type": "Server"
+ },
+ {
+   "ID": 10477,
+   "client_idf": 25,
+   "title": "QNAP-NAS02",
+   "type": "Network"
+ },
+ {
+   "ID": 10478,
+   "client_idf": 25,
+   "title": "HP M501dn - Invoice",
+   "type": "Printer"
+ },
+ {
+   "ID": 10867,
+   "client_idf": 25,
+   "title": "D. Stats Board",
+   "type": "Workstation"
+ },
+ {
+   "ID": 11149,
+   "client_idf": 25,
+   "title": "Microbyte - NVR",
+   "type": "Server"
+ },
+ {
+   "ID": 11150,
+   "client_idf": 25,
+   "title": "Microbyte - Dell R510 (ESX5)",
+   "type": "Physical"
+ },
+ {
+   "ID": 11329,
+   "client_idf": 25,
+   "title": "Microbyte - Dell R710 - iDRAC",
+   "type": "Physical"
+ },
+ {
+   "ID": 11330,
+   "client_idf": 25,
+   "title": "Microbyte - Dell R510 - iDRAC",
+   "type": "Physical"
+ },
+ {
+   "ID": 11486,
+   "client_idf": 25,
+   "title": "MB Stick PC - Dubai Screen",
+   "type": "Workstation"
+ },
+ {
+   "ID": 11513,
+   "client_idf": 25,
+   "title": "Microbyte - ASRCS",
+   "type": "Server"
+ },
+ {
+   "ID": 11610,
+   "client_idf": 25,
+   "title": "Tom",
+   "type": "Workstation"
+ },
+ {
+   "ID": 11707,
+   "client_idf": 25,
+   "title": "Unifi - P2P - Unit 10",
+   "type": "Network"
+ },
+ {
+   "ID": 11708,
+   "client_idf": 25,
+   "title": "Unifi - P2P - Unit 12 - Port 18",
+   "type": "Network"
+ },
+ {
+   "ID": 11718,
+   "client_idf": 25,
+   "title": "HP M203dn - Unit 10 - Dev",
+   "type": "Printer"
+ },
+ {
+   "ID": 11754,
+   "client_idf": 25,
+   "title": "MB-BCK02",
+   "type": "Server"
+ },
+ {
+   "ID": 11767,
+   "client_idf": 25,
+   "title": "Fanvil i20S Door Phone",
+   "type": "Network"
+ },
+ {
+   "ID": 11773,
+   "client_idf": 25,
+   "title": "Matt laptop ",
+   "type": "Workstation"
+ },
+ {
+   "ID": 11794,
+   "client_idf": 25,
+   "title": "Projector PC",
+   "type": "Workstation"
+ },
+ {
+   "ID": 12185,
+   "client_idf": 25,
+   "title": "Microbyte - Dell R730 LAB",
+   "type": "Physical"
+ },
+ {
+   "ID": 12385,
+   "client_idf": 25,
+   "title": "Ubi UNMS Controller",
+   "type": "Network"
+ },
+ {
+   "ID": 12436,
+   "client_idf": 25,
+   "title": "Unit 12 Dispatch",
+   "type": "Workstation"
+ },
+ {
+   "ID": 12504,
+   "client_idf": 25,
+   "title": "Microbyte - APC UPS Network Card",
+   "type": "UPS"
+ },
+ {
+   "ID": 12626,
+   "client_idf": 25,
+   "title": "NetAdmin Tablet",
+   "type": "Workstation"
+ },
+ {
+   "ID": 12755,
+   "client_idf": 25,
+   "title": "Lenovo Stick",
+   "type": "Workstation"
+ },
+ {
+   "ID": 12804,
+   "client_idf": 25,
+   "title": "CLOUD TEST",
+   "type": "Cloud"
+ },
+ {
+   "ID": 13051,
+   "client_idf": 25,
+   "title": "LL-DC01",
+   "type": "Server"
+ },
+ {
+   "ID": 13071,
+   "client_idf": 25,
+   "title": "Anna Fletcher",
+   "type": "Workstation"
+ },
+ {
+   "ID": 13153,
+   "client_idf": 25,
+   "title": "Netgear GS724TP",
+   "type": "Network"
+ },
+ {
+   "ID": 13212,
+   "client_idf": 25,
+   "title": "MBCloud - MBDC_SAN02",
+   "type": "Physical"
+ },
+ {
+   "ID": 13213,
+   "client_idf": 25,
+   "title": "MBCloud - MBDC_SAN02 ISCSI",
+   "type": "Physical"
+ },
+ {
+   "ID": 13214,
+   "client_idf": 25,
+   "title": "MBCloud - MBDC_SAN02 Service IP",
+   "type": "Physical"
+ },
+ {
+   "ID": 13415,
+   "client_idf": 25,
+   "title": "Microbyte Lab - Poweredge T730",
+   "type": "Physical"
+ },
+ {
+   "ID": 13631,
+   "client_idf": 25,
+   "title": "test1",
+   "type": "Workstation"
+ },
+ {
+   "ID": 13812,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R630 - ESX5-R630H2",
+   "type": "Physical"
+ },
+ {
+   "ID": 13874,
+   "client_idf": 25,
+   "title": "vCenter - NetSupport",
+   "type": "Server"
+ },
+ {
+   "ID": 14133,
+   "client_idf": 25,
+   "title": "",
+   "type": "Workstation"
+ },
+ {
+   "ID": 14134,
+   "client_idf": 25,
+   "title": "",
+   "type": "Workstation"
+ },
+ {
+   "ID": 14135,
+   "client_idf": 25,
+   "title": "",
+   "type": "Workstation"
+ },
+ {
+   "ID": 14149,
+   "client_idf": 25,
+   "title": "MBCloud - Dell R620 (SAN) - iDRAC",
+   "type": "Physical"
+ },
+ {
+   "ID": 14207,
+   "client_idf": 25,
+   "title": "Zyxel GS1900 24 Port",
+   "type": "Network"
+ },
+ {
+   "ID": 14530,
+   "client_idf": 25,
+   "title": "TEMPLATE-3CX",
+   "type": "Server"
+ },
+ {
+   "ID": 14800,
+   "client_idf": 25,
+   "title": "MB-FMVDI",
+   "type": "Workstation"
+ },
+ {
+   "ID": 14953,
+   "client_idf": 25,
+   "title": "PLECTO-PI",
+   "type": "Workstation"
+ },
+ {
+   "ID": 14984,
+   "client_idf": 25,
+   "title": "MB-Ahsay01",
+   "type": "Server"
+ },
+ {
+   "ID": 416,
+   "client_idf": 5,
+   "title": "Peter ",
+   "type": "Workstation"
+ },
+ {
+   "ID": 418,
+   "client_idf": 5,
+   "title": "Roy",
+   "type": "Workstation"
+ },
+ {
+   "ID": 524,
+   "client_idf": 5,
+   "title": "Clare",
+   "type": "Workstation"
+ },
+ {
+   "ID": 1041,
+   "client_idf": 5,
+   "title": "Server02",
+   "type": "Server"
+ },
+ {
+   "ID": 1104,
+   "client_idf": 5,
+   "title": "Phil",
+   "type": "Workstation"
+ },
+ {
+   "ID": 1830,
+   "client_idf": 5,
+   "title": "BarhamStone FM DB",
+   "type": "Workstation"
+ },
+ {
+   "ID": 2379,
+   "client_idf": 5,
+   "title": "NAS01 - Qnap",
+   "type": "Server"
+ },
+ {
+   "ID": 3529,
+   "client_idf": 5,
+   "title": "Ubi M2 AP - Main Cabinet",
+   "type": "Network"
+ },
+ {
+   "ID": 3530,
+   "client_idf": 5,
+   "title": "Ubi M2 AP - Warehouse",
+   "type": "Network"
+ },
+ {
+   "ID": 4102,
+   "client_idf": 5,
+   "title": "Elastix",
+   "type": "Server"
+ },
+ {
+   "ID": 4293,
+   "client_idf": 5,
+   "title": "Meraki MX-64",
+   "type": "Network"
+ },
+ {
+   "ID": 6501,
+   "client_idf": 5,
+   "title": "ESX1 T430 OMSA Installed",
+   "type": "Physical"
+ },
+ {
+   "ID": 6503,
+   "client_idf": 5,
+   "title": "ESX1 T430 (iDrac)",
+   "type": "Physical"
+ },
+ {
+   "ID": 6509,
+   "client_idf": 5,
+   "title": "Sharp MX-2614",
+   "type": "Printer"
+ },
+ {
+   "ID": 6515,
+   "client_idf": 5,
+   "title": "Server03",
+   "type": "Server"
+ },
+ {
+   "ID": 6516,
+   "client_idf": 5,
+   "title": "Backup-VM",
+   "type": "Server"
+ },
+ {
+   "ID": 10331,
+   "client_idf": 5,
+   "title": "Ubi AP ",
+   "type": "Network"
+ },
+ {
+   "ID": 11399,
+   "client_idf": 5,
+   "title": "Esme",
+   "type": "Workstation"
+ },
+ {
+   "ID": 11620,
+   "client_idf": 5,
+   "title": "Konica Monolta bizhub C224e",
+   "type": "Printer"
+ },
+ {
+   "ID": 11898,
+   "client_idf": 5,
+   "title": "Saw - Router",
+   "type": "Network"
+ },
+ {
+   "ID": 12722,
+   "client_idf": 5,
+   "title": "UPS SMART 750",
+   "type": "UPS"
+ },
+ {
+   "ID": 13270,
+   "client_idf": 5,
+   "title": "BAR-3CX",
+   "type": "Server"
+ },
+ {
+   "ID": 13399,
+   "client_idf": 5,
+   "title": "BAR-HB1NRZ2",
+   "type": "Server"
+ },
+ {
+   "ID": 13656,
+   "client_idf": 5,
+   "title": "Mimaki CG-60SL",
+   "type": "Printer"
+ },
+ {
+   "ID": 15159,
+   "client_idf": 5,
+   "title": "",
+   "type": "Workstation"
+ },
+ {
+   "ID": 15161,
+   "client_idf": 5,
+   "title": "",
+   "type": "Workstation"
+ },
+ {
+   "ID": 15173,
+   "client_idf": 5,
+   "title": "",
+   "type": "Workstation"
+ }
+],
 	"profile": {
 		"name": "ml_poc"
 	}
